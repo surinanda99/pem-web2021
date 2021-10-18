@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biodata Mahasiswa</title>
+    <style type="text/css"></style>
+
+</head>   
+<body>
+    <h1 align="center">Biodata Mahasiswa</h1>
+    <hr width="500" style="2">
+    <table align="center" cellpadding="5" align="center" width="800">
+    <td rowspan="25" align="center"><img src="PEMOGRAMAN BERBASIS WEB/inda.jpg" width="100"></td>    
+       
+        <tr>
+            <td> Nama</td>
+            <td>: Surinanda</td>
+        <tr>
+        <tr>    
+            <td> NIM</td>
+            <td>: A11.2021.13489</td>
+        </tr>    
+            <td> dosen Wali</td>
+            <td>: ABU SALAM,M.Kom</td>
+        </tr>
+        <tr>
+            <td> Status</td>
+            <td>: Aktif</td>
+        </tr>
+        <tr>
+            <td> Alamat Semarang</td>
+            <td>: -</td>
+        </tr>
+        <tr>
+            <td> Alamat Asal</td>
+            <td>: Jalan Soekarno-Hatta</td>
+        </tr>
+        <tr>
+            <td>No HP</td>
+            <td>: 081277491474</td>
+        </tr>
+        <tr>
+            <td> Email</td>
+            <td>: 111202113489@mhs.dinus.ac.id</td>
+        </tr>
+        <tr>
+            <td> Agama</td>
+            <td>: Islam</td>
+        </tr>
+    </table>
+</body>   
+</html>
